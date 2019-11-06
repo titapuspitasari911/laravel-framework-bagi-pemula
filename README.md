@@ -29,7 +29,7 @@
 4. Peserta mampu memahami cara menjalankan service web ketika menggunakan framework Laravel.
 5. Peserta mampu memahami struktur project dari Laravel.
 6. Peserta mampu memahami konsep MVC.
-7. Peserta mampu memahami menampilkan `Hello World` pada laman web yang dikembangkan menggunakan Laravel.
+7. Peserta mampu menampilkan `Hello World` pada laman web yang dikembangkan menggunakan Laravel.
 8. Peserta mampu memahami perbedaan pemrograman dengan PHP Native dan Framework.
 9. Persiapan untuk kelas berikutnya.
 
